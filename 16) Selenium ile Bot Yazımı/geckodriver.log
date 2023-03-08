@@ -1,0 +1,198 @@
+1638956194303	geckodriver	INFO	Listening on 127.0.0.1:53499
+1638956197392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53500" "-no-remote" "-profile" "C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofile1ZENqE"
+1638956203493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofile1ZENqE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53500/devtools/browser/926f79d1-e3e2-46f4-9077-427863bd919b
+1638956220843	Marionette	INFO	Listening on port 53509
+1638956221189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1638956230854	Marionette	INFO	Stopped listening on port 53509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638956261342	geckodriver	INFO	Listening on 127.0.0.1:53624
+1638956264382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53625" "-no-remote" "-profile" "C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofile75bTAe"
+1638956265201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofile75bTAe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53625/devtools/browser/40cdd4f3-eaa5-434d-87bb-af791ebc9403
+1638956269415	Marionette	INFO	Listening on port 53632
+1638956269814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1638956280463	Marionette	INFO	Stopped listening on port 53632
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638956380837	geckodriver	INFO	Listening on 127.0.0.1:53884
+1638956383881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53885" "-no-remote" "-profile" "C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofile1am5bE"
+1638956384781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofile1am5bE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53885/devtools/browser/3d9bd0b6-b7a3-4e71-8031-2b0b042ca9ff
+1638956388787	Marionette	INFO	Listening on port 53891
+1638956389250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638957933085	Marionette	INFO	Stopped listening on port 53891
+\Local\\Temp\\rust_mozprofilexDH5ci"
+1638956520385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofilexDH5ci\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54027/devtools/browser/6b54cee3-9005-4c30-b5d5-f9366c59a9cb
+1638956526070	Marionette	INFO	Listening on port 54034
+1638956526494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1638956718279	Marionette	INFO	Stopped listening on port 54034
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1638956720220	geckodriver	INFO	Listening on 127.0.0.1:54215
+1638956723279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54216" "-no-remote" "-profile" "C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofileAu62Qk"
+1638956724015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofileAu62Qk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54216/devtools/browser/3a6cd656-689b-421f-ada6-3e1fbad222fc
+1638956728392	Marionette	INFO	Listening on port 54222
+1638956728646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f317fe9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.error: (new TypeError("this.responsiveFront is undefined", "resource://devtools/client/responsive/ui.js", 256))
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f35808900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f3369d820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f2d5f69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f2f54ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f31558f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #1] WARNING: 28f358f14a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #2] WARNING: 28f317b1740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #2] WARNING: 28f30a8a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #2] WARNING: 28f353ddc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #3] WARNING: 28f3a126120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #3] WARNING: 28f2f51e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 3636, MediaDecoderStateMachine #4] WARNING: 28f312293c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #4] WARNING: 28f312293c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #4] WARNING: 28f3abd2c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #4] WARNING: 28f3abd2d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #4] WARNING: 28f2ba57ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3636, MediaDecoderStateMachine #4] WARNING: 28f315a5200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Handler function BrowserTabList.prototype.onCloseWindow's delayed body threw an exception: TypeError: browsingContext is null
+Stack: destroyTargets@resource://devtools/server/actors/watcher/target-helpers/frame-helper.js:178:1
+unwatchTargets@resource://devtools/server/actors/watcher.js:226:24
+destroy@resource://devtools/server/actors/watcher.js:115:12
+destroy@resource://devtools/shared/protocol/Pool.js:210:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/descriptors/tab.js:238:29
+BrowserTabList.prototype._handleActorClose@resource://devtools/server/actors/webbrowser.js:429:9
+BrowserTabList.prototype.onCloseWindow</<@resource://devtools/server/actors/webbrowser.js:678:16
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+Line: 178, column: 1
+console.error: (new TypeError("browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 178))
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 20: TypeError: browser is null
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1638957393371	Marionette	INFO	Stopped listening on port 54222
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+d not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #2] WARNING: 2bf17fb3ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #2] WARNING: 2bf180f5900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #2] WARNING: 2bf1f2882e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1638957394017	Marionette	INFO	Stopped listening on port 54651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PConDevTools listening on ws://localhost:54826/devtools/browser/b857075c-4473-4708-8289-9dc976f9f9d2
+1638957396659	Marionette	INFO	Listening on port 54833
+1638957397034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd4478200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1accf208f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd33352e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd6d739e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd8ac8820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1accca2bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1accca37120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1accd221e1638957520326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" [Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd15a92e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd15dcd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd15dcd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd36832e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd364df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd3a40120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd22b8d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd2a949e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd22d1120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd22d19e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4836, MediaDecoderStateMachine #1] WARNING: 1acd2a94580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483650/layout52, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8018:36\nWindowIsClosing@chrome://browser/content/browser.js:8047:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483650/layout52, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8018:36\nWindowIsClosing@chrome://browser/content/browser.js:8047:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1638957936055	Marionette	INFO	Stopped listening on port 54833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"RemoteSettingsClient - finish IDB access.","state":["importChanges() in security-state/intermediates"],"filename":"resource://services-settings/Database.jsm","lineNumber":462,"stack":["resource://services-settings/Database.jsm:ensureShutdownBlocker:462","resource://services-settings/Database.jsm:Database:28","resource://services-settings/RemoteSettingsClient.jsm:RemoteSettingsClient/<:286","resource://gre/modules/XPCOMUtils.jsm:get:62","resource://services-settings/RemoteSettingsClient.jsm:get:361","resource://gre/modules/URLDecorationAnnotationsService.jsm:ensureUpdated:67","resource://gre/modules/URLDecorationAnnotationsService.jsm:observe:47"]}] Barrier: profile-before-change
+\denem\\AppData\\Local\\Temp\\rust_mozprofilebEvdbm"
+1638957751963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofilebEvdbm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55172/devtools/browser/d2751dcd-ca68-459f-8664-e1120160b76a
+1638957756181	Marionette	INFO	Listening on port 55178
+1638957756277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+1638957936589	Marionette	INFO	Stopped listening on port 55178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mozprofilej84SNH"
+1638957858149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\denem\\AppData\\Local\\Temp\\rust_mozprofilej84SNH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55312/devtools/browser/11f43b57-06e3-4a6a-93b4-838a9fdfdf71
+1638957864971	Marionette	INFO	Listening on port 55319
+1638957865133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4052: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/828a825a5d300378bb33.js, line 4053: unreachable code after return statement
+1638957935550	Marionette	INFO	Stopped listening on port 55319
