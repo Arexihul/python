@@ -1,0 +1,5 @@
+arexihul
+ICxOvgLgxsLw47up
+46.196.121.219/32
+mongodb+srv://arexihul:<password>@cluster0.smc4esi.mongodb.net/test
+mongodb+srv://arexihul:ICxOvgLgxsLw47up@cluster0.smc4esi.mongodb.net/test

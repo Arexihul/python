@@ -1,0 +1,28 @@
+MySQL Workbench üzerinde eğitimde kullandığımız kodlar
+
+alter table products
+Add CONSTRAINT fk_categories_products
+FOREIGN KEY (Categoryid) REFERENCES categories(id)
+
+
+ALTER TABLE class
+ADD CONSTRAINT fk_teacher_class
+FOREIGN KEY (TeacherId) REFERENCES teacher(Id)
+
+ALTER TABLE students
+ADD CONSTRAINT fk_students_class
+FOREIGN KEY (ClassId) REFERENCES class(Id)
+
+ALTER TABLE classlesson
+ADD CONSTRAINT fk_classlesson_class
+FOREIGN KEY (ClassId) REFERENCES class(Id)
+
+ALTER TABLE classlesson
+ADD CONSTRAINT fk_classlesson_lesson
+FOREIGN KEY (LessonId) REFERENCES lesson(Id)
+
+ALTER TABLE classlesson
+ADD CONSTRAINT fk_classlesson_teacher
+FOREIGN KEY (TeacherId) REFERENCES teacher(Id)
+
+
